@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalNames1.2", "AnimalNames1.2\AnimalNames1.2.csproj", "{AF2C5ED9-16CE-4ABA-BAE6-58C025589E29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalNames1.4", "AnimalNames1.4\AnimalNames1.4.csproj", "{F5DB421E-D2C2-42A5-BE20-2E8E022513A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF2C5ED9-16CE-4ABA-BAE6-58C025589E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2C5ED9-16CE-4ABA-BAE6-58C025589E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2C5ED9-16CE-4ABA-BAE6-58C025589E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2C5ED9-16CE-4ABA-BAE6-58C025589E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DB421E-D2C2-42A5-BE20-2E8E022513A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DB421E-D2C2-42A5-BE20-2E8E022513A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DB421E-D2C2-42A5-BE20-2E8E022513A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DB421E-D2C2-42A5-BE20-2E8E022513A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0189BE-26C8-4DE9-AE38-142B57354962}
+	EndGlobalSection
+EndGlobal
